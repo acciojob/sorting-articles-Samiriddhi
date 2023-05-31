@@ -1,5 +1,8 @@
 /*  your css code here. If applicable */
 #bands{
-	test-align:Center;
+	test-align:left;
 	background-color:white;
+	list-style:square;
 }
+
+	
